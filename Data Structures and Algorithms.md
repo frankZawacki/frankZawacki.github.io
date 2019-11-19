@@ -1,4 +1,4 @@
-##DATA STRUCTURES AND ALGORITHMS
+## DATA STRUCTURES AND ALGORITHMS
 
 The original artifact the I am working with is from CS-340. It was an API built in Python, using Bottle microservice framework and MongoDB as the database. The project that I am using as a starting point is a single file Python API that implements CRUD on a MongoDB database. It is a simple application and does what it intends on a very basic level.
 
@@ -11,5 +11,5 @@ I was originally planning on going in an entirely different direction with the f
 I learned a great deal while working on this project. I learned about the flask framework, and I learned about a lot of the libraries that are available to use with it. I learned how to use documentation to learn about a language, library, or extension. I learned about using a virtual environment in python. There were some challenges that I faced in this process. One challenge was that I was having trouble with the stocks database. It was not displaying correctly, I figured out that this had to do with the fact that there were a lot of fields in the database for a stock, but I was only using about 6 of them. I resolved this issue by using ‘db.DynamicDocument’ in the model instead of ‘db.Document’. 
 
 
-[Link to project code](https://github.com/frankZawacki/finalProject)
+[Click this link to view the code for the project.](https://github.com/frankZawacki/finalProject)
 
