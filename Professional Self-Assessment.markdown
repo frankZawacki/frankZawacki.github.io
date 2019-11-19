@@ -17,5 +17,5 @@ The third category, databases, was the original reason I used this artifact. I a
 
 
 
-Picture of my daughter, wife, and myself.
+(Picture of my daughter, wife, and myself.)
 ![Image](family1.jpg)
