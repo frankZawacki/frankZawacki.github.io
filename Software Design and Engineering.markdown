@@ -8,4 +8,4 @@ I had no previous experience using Flask. I had read about it in passing and got
 
 I was originally planning on going in an entirely different direction with the final project and all the milestones. However, after realizing that I could meet all the requirements with this one project, I decided that would be the new direction I would take. 
 
-[Link](https://github.com/frankZawacki/finalProject)
+[Click this link to see the code for this project.](https://github.com/frankZawacki/finalProject)
