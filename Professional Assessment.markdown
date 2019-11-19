@@ -15,4 +15,7 @@ There are several demonstrations of the second category of data structures and a
 
 The third category, databases, was the original reason I used this artifact. I added a user collection that is used for the sign in process and includes a ‘user_id’, email, password, and first and last name. New users can be added using the registration page. The original application’s functionality is maintained using the stock collection. There is also an interface. I also added a subscribe collection, this is basically a junction table (collection). This collection includes the ‘user_id’ and the ticker, but on the subscribe page it uses the ticker as a foreign key and looks up the stock and lists the other information for that stock connected to the ‘user_id’. I also learned about using postman to test things that uses http requests. I also set up a MongoDB cloud database in atlas and connected the application to that instead of a local instance of MongoDB.
 
+
+
+Picture of my daughter, wife, and myself.
 ![Image](family1.jpg)
