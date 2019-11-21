@@ -74,7 +74,7 @@ I learned a great deal while working on this project. I learned about the flask 
 ### Following are screenshots of the project running, using a browser and Postman
 
 
-![Image](Screenshot(14303).png)
+![Image](.\images\screenshots\Screenshot(14303).png)
 
 ![Image](Screenshot(14304).png)
 
