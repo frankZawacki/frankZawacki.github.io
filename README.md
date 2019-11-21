@@ -74,36 +74,37 @@ I learned a great deal while working on this project. I learned about the flask 
 ### Following are screenshots of the project running, using a browser and Postman
 
 
-![Image](\images\screenshots\Screenshot(14303).png)
+![Image](\images\screenshots\Screenshot1.png)
 
-![Image](Screenshot(14304).png)
+![Image](\images\screenshots\Screenshot2.png)
 
-![Image](Screenshot(14305).png)
+![Image](\images\screenshots\Screenshot3.png)
 
-![Image](Screenshot(14307).png)
+![Image](\images\screenshots\Screenshot4.png)
 
-![Image](Screenshot(14308).png)
+![Image](\images\screenshots\Screenshot5.png)
 
-![Image](Screenshot(14309).png)
+![Image](\images\screenshots\Screenshot6.png)
 
-![Image](Screenshot(14310).png)
+![Image](\images\screenshots\Screenshot7.png)
 
-![Image](Screenshot(14311).png)
+![Image](\images\screenshots\Screenshot8.png)
 
-![Image](Screenshot(14312).png)
+![Image](\images\screenshots\Screenshot9.png)
 
-![Image](Screenshot(14313).png)
+![Image](\images\screenshots\Screenshot10.png)
 
-![Image](Screenshot(14314).png)
+![Image](\images\screenshots\Screenshot11.png)
 
-![Image](Screenshot(14315).png)
+![Image](\images\screenshots\Screenshot12.png)
 
-![Image](Screenshot(14316).png)
+![Image](\images\screenshots\Screenshot13.png)
 
-![Image](Screenshot(14317).png)
+![Image](\images\screenshots\Screenshot14.png)
 
-![Image](Screenshot(14318).png)
+![Image](\images\screenshots\Screenshot15.png)
 
-![Image](Screenshot(14319).png)
+![Image](\images\screenshots\Screenshot16.png)
 
-![Image](Screenshot(14320).png)
+![Image](\images\screenshots\Screenshot17.png)
+
