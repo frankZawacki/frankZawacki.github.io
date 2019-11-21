@@ -70,3 +70,40 @@ I learned a great deal while working on this project. I learned about the flask 
 
 
 [Click this link to watch the code review.](https://youtu.be/Lhxd6PvEmTA)
+
+### Following are screenshots of the project running, using a browser and Postman
+
+
+![Image](Screenshot(14303).png)
+
+![Image](Screenshot(14304).png)
+
+![Image](Screenshot(14305).png)
+
+![Image](Screenshot(14307).png)
+
+![Image](Screenshot(14308).png)
+
+![Image](Screenshot(14309).png)
+
+![Image](Screenshot(14310).png)
+
+![Image](Screenshot(14311).png)
+
+![Image](Screenshot(14312).png)
+
+![Image](Screenshot(14313).png)
+
+![Image](Screenshot(14314).png)
+
+![Image](Screenshot(14315).png)
+
+![Image](Screenshot(14316).png)
+
+![Image](Screenshot(14317).png)
+
+![Image](Screenshot(14318).png)
+
+![Image](Screenshot(14319).png)
+
+![Image](Screenshot(14320).png)
